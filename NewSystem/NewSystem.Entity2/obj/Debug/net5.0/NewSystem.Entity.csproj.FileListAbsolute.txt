@@ -1,0 +1,15 @@
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Entity2\bin\Debug\net5.0\NewSystem.Entity.deps.json
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Entity2\bin\Debug\net5.0\NewSystem.Entity.dll
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Entity2\bin\Debug\net5.0\ref\NewSystem.Entity.dll
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Entity2\bin\Debug\net5.0\NewSystem.Entity.pdb
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Entity2\obj\Debug\net5.0\NewSystem.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Entity2\obj\Debug\net5.0\NewSystem.Entity.AssemblyInfoInputs.cache
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Entity2\obj\Debug\net5.0\NewSystem.Entity.AssemblyInfo.cs
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Entity2\obj\Debug\net5.0\NewSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Entity2\obj\Debug\net5.0\NewSystem.Entity.dll
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Entity2\obj\Debug\net5.0\ref\NewSystem.Entity.dll
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Entity2\obj\Debug\net5.0\NewSystem.Entity.pdb
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Entity2\obj\Debug\net5.0\NewSystem.Entity.csproj.AssemblyReference.cache
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Entity2\bin\Debug\net5.0\NewSystem.Entity.runtimeconfig.json
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Entity2\bin\Debug\net5.0\NewSystem.Entity.runtimeconfig.dev.json
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Entity2\obj\Debug\net5.0\NewSystem.Entity.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Teste\bin\Debug\net5.0\NewSystem.Teste.exe
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Teste\bin\Debug\net5.0\NewSystem.Teste.deps.json
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Teste\bin\Debug\net5.0\NewSystem.Teste.runtimeconfig.json
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Teste\bin\Debug\net5.0\NewSystem.Teste.runtimeconfig.dev.json
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Teste\bin\Debug\net5.0\NewSystem.Teste.dll
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Teste\bin\Debug\net5.0\ref\NewSystem.Teste.dll
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Teste\bin\Debug\net5.0\NewSystem.Teste.pdb
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Teste\obj\Debug\net5.0\NewSystem.Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Teste\obj\Debug\net5.0\NewSystem.Teste.AssemblyInfoInputs.cache
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Teste\obj\Debug\net5.0\NewSystem.Teste.AssemblyInfo.cs
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Teste\obj\Debug\net5.0\NewSystem.Teste.csproj.CoreCompileInputs.cache
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Teste\obj\Debug\net5.0\NewSystem.Teste.dll
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Teste\obj\Debug\net5.0\ref\NewSystem.Teste.dll
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Teste\obj\Debug\net5.0\NewSystem.Teste.pdb
+C:\Projetos_CSharp\NewSystem\NewSystem\NewSystem.Teste\obj\Debug\net5.0\NewSystem.Teste.genruntimeconfig.cache
